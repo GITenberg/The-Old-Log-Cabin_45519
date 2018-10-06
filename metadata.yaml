@@ -24,5 +24,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Lincoln, Abraham, 1809-1865 -- Poetry'
 - !lcc 'E456'
+- GITenberg
 title: The Old Log Cabin
 url: http://www.gutenberg.org/ebooks/45519
